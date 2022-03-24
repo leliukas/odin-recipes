@@ -6,3 +6,31 @@ body {
 ul, ol {
     display: contents;
 }
+a:link {
+    color: rgb(38, 38, 82);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(23, 180, 207);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #50C878;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  h1,h2 {
+      color: rgba(27, 31, 34, 0.753);
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+  
