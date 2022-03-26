@@ -1,13 +1,13 @@
 body {
     text-align: center;
-    font-family: Ubuntu ;
+    font-family: 'Fredoka One', Ubuntu ;
     background-color: #379683;
 }
 ul, ol {
     display: contents;
 }
 a:link {
-    color: #edf5e1;
+    color: #ff831d;
     background-color: transparent;
     text-decoration: none;
   }
@@ -21,7 +21,7 @@ a:link {
   a:hover {
     color: #50C878;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: overline;
   }
   
   a:active {
