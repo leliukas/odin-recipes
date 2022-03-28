@@ -1,19 +1,16 @@
-body {
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+
+* {
     text-align: center;
     font-family: 'Fredoka One', Ubuntu ;
-    background-color: #379683;
+    background-color: #272323;
+    color: #e3ecec;
 }
 ul, ol {
     display: contents;
 }
-a:link {
+a:link, a:visited{
     color: #ff831d;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: #edf5e1;
     background-color: transparent;
     text-decoration: none;
   }
@@ -30,7 +27,7 @@ a:link {
     text-decoration: underline;
   }
   h1,h2 {
-      color: #edf5e1;
+      color: #e3ecec;
       text-transform: uppercase;
   }
   
